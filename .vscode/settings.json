@@ -1,0 +1,4 @@
+{
+    "nuxt.isNuxtApp": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/linux"
+}
